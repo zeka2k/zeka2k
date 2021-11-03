@@ -1,5 +1,5 @@
 ### Hi there!  
-## ![Image of zeka2k](https://cdn.discordapp.com/attachments/895807851988140062/905510700871454760/image0.jpg)
+# ![Image of zeka2k](https://cdn.discordapp.com/attachments/895807851988140062/905510700871454760/image0.jpg)
 
 <!--
 **zeka2k/zeka2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

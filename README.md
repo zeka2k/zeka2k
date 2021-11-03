@@ -1,4 +1,4 @@
-### Hi there ![Image of zeka2k](image0.jpg)
+### Hi there ! [Image of zeka2k](https://octodex.github.com/images/image0.jpg)
 
 <!--
 **zeka2k/zeka2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

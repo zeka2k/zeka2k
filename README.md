@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **zeka2k/zeka2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Stats for the geeks 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zeka2k&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+<img  src="https://github-readme-stats.vercel.app/api?username=zeka2k&show_icons=true&hide_title=true&count_private=true&theme=dracula" alt="github stats for zeka2k">
